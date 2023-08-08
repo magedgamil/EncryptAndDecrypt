@@ -1,0 +1,55 @@
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.exe
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.deps.json
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.runtimeconfig.json
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.runtimeconfig.dev.json
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\ref\EncAndDec.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.pdb
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.Form1.resources
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.GenerateResource.cache
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.AssemblyInfoInputs.cache
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.AssemblyInfo.cs
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.CoreCompileInputs.cache
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\ref\EncAndDec.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.pdb
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.genruntimeconfig.cache
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.AssemblyReference.cache
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.Login.resources
+C:\Users\MAaged\Desktop\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.CopyComplete
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.exe
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.deps.json
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.runtimeconfig.json
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.runtimeconfig.dev.json
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\ref\EncAndDec.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\EncAndDec.pdb
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\Google.Protobuf.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\MySql.Data.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\bin\Debug\net5.0-windows\ZstdNet.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.AssemblyReference.cache
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.Form1.resources
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.GenerateResource.cache
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.GeneratedMSBuildEditorConfig.editorconfig
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.AssemblyInfoInputs.cache
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.AssemblyInfo.cs
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.CoreCompileInputs.cache
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.csproj.CopyComplete
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\ref\EncAndDec.dll
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.pdb
+G:\last\templates & Examples\EncAndDec\EncAndDec\obj\Debug\net5.0-windows\EncAndDec.genruntimeconfig.cache

@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v5.0,Profile=windows": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v5.0,Profile=windows": []
+  },
+  "packageFolders": {
+    "C:\\Users\\MAaged\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "G:\\last\\templates & Examples\\EncAndDec\\EncAndDec\\EncAndDec.csproj",
+      "projectName": "EncAndDec",
+      "projectPath": "G:\\last\\templates & Examples\\EncAndDec\\EncAndDec\\EncAndDec.csproj",
+      "outputPath": "G:\\last\\templates & Examples\\EncAndDec\\EncAndDec\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net50-windows"
+      ],
+      "frameworks": {
+        "net50-windows": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net50-windows": {}
+    }
+  }
+}
